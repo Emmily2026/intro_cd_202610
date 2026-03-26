@@ -11,3 +11,7 @@ Se esta editando el documento
 
 Imagen simple
 ![Texto alternativo](download.jpg)
+
+Imagen desde URL externa
+![Logo](https://github.com/Emmily2026/intro_cd_202610/blob/main/download.jpg)
+
