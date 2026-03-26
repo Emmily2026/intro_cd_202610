@@ -10,4 +10,4 @@ Se esta editando el documento
 ###### Nivel 6 (H6)
 
 Imagen simple
-![Texto alternativo](carrito01.jpg)
+![Texto alternativo](download.jpg)
