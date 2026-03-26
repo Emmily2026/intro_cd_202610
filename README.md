@@ -2,3 +2,9 @@
 Repositorio de la clase introducción Ciencia de Datos 2026/03/26
 
 Se esta editando el documento
+# Título principal (H1)
+## Subtítulo (H2)
+### Sub-subtítulo (H3)
+#### Nivel 4 (H4)
+##### Nivel 5 (H5)
+###### Nivel 6 (H6)
